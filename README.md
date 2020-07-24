@@ -7,3 +7,5 @@ My Submission to an Assessment Exercise for a Junior Developer Role
   <li>The assessment exercise was sent to the author at 2020-07-09 14:14 and Buraleh's submitted a response at 2020-07-10 17:39 (proof available on request).</li>
   <li>Buraleh will consider redoing the exercise in the future to serve as a comparison for his skill set progression.</li>
 </ul>
+
+It goes without saying that Buraleh is grateful to the company, which shall remain anonymous, for the opportunity to display his ability with Python.
